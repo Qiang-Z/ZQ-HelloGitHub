@@ -1,2 +1,2 @@
 # ZQ-HelloGitHub
-# add DeepLearing code of Wu En Da Course!
+# Learing CV1
